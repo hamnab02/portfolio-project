@@ -61,6 +61,7 @@ p {
 
 .content-container {
   padding: 60px 20px;
+  background: var(--secondary-color);
 }
 
 .content h1 {
